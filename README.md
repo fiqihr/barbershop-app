@@ -1,5 +1,5 @@
 
-## Barbershop Application
+## Barbershop Website Admin
 
 ![Barbershop Admin](https://github.com/fiqihr/barbershop-app/assets/75562356/db9a02f0-40fc-4f5e-836b-7d4be9f5d77b)
 
